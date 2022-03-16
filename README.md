@@ -5,6 +5,6 @@
 ---
 <h2>Tech:</h2>
 
-<img src="https://skillicons.dev/icons?i=git,java,cs" alt="git and Java and C#"><br><img src="https://skillicons.dev/icons?i=html,md,vscode" alt="HTML and Markdown and VSCode"><br><img src="https://skillicons.dev/icons?i=figma,idea,unity" alt="Figma and IntelliJ and Unity">| <em>Learning:</em><br><img src="https://skillicons.dev/icons?i=unreal,cpp,py" alt="Unreal and C++ and Python"><br><img src="https://skillicons.dev/icons?i=linux,css,js" alt="Linux and CSS and JavaScript"><!-- bash,css -->
+<img src="https://skillicons.dev/icons?i=git,java,cs" alt="git and Java and C#"><br><img src="https://skillicons.dev/icons?i=html,md,latex" alt="HTML and Markdown and LaTex"><br><img src="https://skillicons.dev/icons?i=figma,idea,unity" alt="Figma and IntelliJ and Unity"><!-- vscode -->| <em>Learning:</em><br><img src="https://skillicons.dev/icons?i=unreal,cpp,py" alt="Unreal and C++ and Python"><br><img src="https://skillicons.dev/icons?i=linux,css,js" alt="Linux and CSS and JavaScript"><!-- bash,css -->
 -|-
 
