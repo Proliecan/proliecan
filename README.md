@@ -2,6 +2,8 @@
 
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs?username=Proliecan&hide_border=true&bg_color=0d1117&title_color=3896ff&text_color=c9d1d9&custom_title=Languages:&langs_count=10&layout=compact&card_width=445&exclude_repo=LaTeX-Template-DHBW-PA)
 
+[![TryHackme](https://tryhackme-badges.s3.amazonaws.com/proliecan.png)](https://tryhackme.com/p/proliecan)
+
 ---
 <h2>Tech:</h2>
 
