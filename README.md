@@ -15,4 +15,5 @@
 <img src="https://skillicons.dev/icons?i=git,java,cs" alt="git and Java and C#"><br><img src="https://skillicons.dev/icons?i=latex,html,css" alt="LaTEx and HTML and CSS"><br><img src="https://skillicons.dev/icons?i=figma,idea,unity" alt="Figma and IntelliJ and Unity">| <em>Learning:</em><br><img src="https://skillicons.dev/icons?i=py,linux,nodejs" alt="Python and Linux and NodeJS">
 -|-
 
-[![](https://visitcount.itsvg.in/api?id=Proliecan&label=Profile+Views+Today&color=12&icon=5&pretty=true)](https://github.com/proliecan)
+---
+[![Visitors](https://visitcount.itsvg.in/api?id=Proliecan&label=Profile+Views+Today&color=12&icon=5&pretty=true)](https://github.com/proliecan)[![itch.io](https://img.shields.io/badge/itch.io-696969?style=for-the-badge&logo=itch.io&logoColor=da2c49&labelColor=1c1c1c)](https://proliecan.itch.io)
