@@ -16,4 +16,4 @@
 -|-
 
 ---
-[![Visitors](https://visitcount.itsvg.in/api?id=Proliecan&label=Profile+Views+Today&color=12&icon=5&pretty=true)](https://github.com/proliecan)[![itch.io](https://img.shields.io/badge/itch.io-696969?style=for-the-badge&logo=itch.io&logoColor=da2c49&labelColor=1c1c1c)](https://proliecan.itch.io)
+[![](https://visitcount.itsvg.in/api?id=Proliecan&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/proliecan)[![itch.io](https://img.shields.io/badge/itch.io-696969?style=for-the-badge&logo=itch.io&logoColor=da2c49&labelColor=1c1c1c)](https://proliecan.itch.io)
