@@ -8,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=git" alt="">|<img src="https://skillicons.dev/icons?i=html,css" alt="">|<img src="https://skillicons.dev/icons?i=cs,unity" alt="">|<img src="https://skillicons.dev/icons?i=latex,java" alt="">
 -|-|-|-
 
-<h3>Learning:</h3><img src="https://skillicons.dev/icons?i=py,linux,nodejs" alt="Python and Linux and NodeJS">
+<h3>Learning:</h3><img src="https://skillicons.dev/icons?i=py,linux,nodejs,vscode" alt="Python and Linux and NodeJS and VSCode plugin">
 
 ---
 [![Activity graph](https://activity-graph.herokuapp.com/graph?username=proliecan&bg_color=0d1117&color=fff&line=3c7fd6&hide-border=true&custom_title=Activity+Over+Time:&radius=10&area=true&area_color=2e5184)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
